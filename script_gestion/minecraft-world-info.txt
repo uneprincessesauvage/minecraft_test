@@ -1,0 +1,1350 @@
+
+======================================================================
+MONDE : Abandoned_City_v2.3
+======================================================================
+---- World Info: Abandoned_City_v2.3 ----
+[Page 1 of 4]
+World Key: minecraft:abandoned_city_v2.3
+World Name: Abandoned_City_v2.3
+World Alias: empty
+World UID: 00efd91d-8e57-48be-a767-b44ba396826c
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: -340 Y: 65 Z: -138 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Abandoned_City_v2.3 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Abandoned_City_v2.3 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Abandoned_City_v2.3 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Ancient_Egypt
+======================================================================
+---- World Info: Ancient_Egypt ----
+[Page 1 of 4]
+World Key: minecraft:ancient_egypt
+World Name: Ancient_Egypt
+World Alias: empty
+World UID: d19de5eb-001d-4246-aa11-3713d25e919d
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: 1,347 Y: 31 Z: 3,400 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Ancient_Egypt ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Ancient_Egypt ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Ancient_Egypt ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : God_Tree_House_1.0.7
+======================================================================
+---- World Info: God_Tree_House_1.0.7 ----
+[Page 1 of 4]
+World Key: minecraft:god_tree_house_1.0.7
+World Name: God_Tree_House_1.0.7
+World Alias: empty
+World UID: 2ea654a0-49d5-4401-b03e-025380e699c5
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: 76.5 Y: 0 Z: 145.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: God_Tree_House_1.0.7 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: -2789276287578498789
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: God_Tree_House_1.0.7 ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: God_Tree_House_1.0.7 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Haunted_Castle
+======================================================================
+---- World Info: Haunted_Castle ----
+[Page 1 of 4]
+World Key: minecraft:haunted_castle
+World Name: Haunted_Castle
+World Alias: empty
+World UID: ecb1d86b-9851-48cd-8dd9-87208882b657
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: -295 Y: 63 Z: 273 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Haunted_Castle ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: -7638139437452965352
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Haunted_Castle ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Haunted_Castle ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Lighthouse_1.0.6
+======================================================================
+---- World Info: Lighthouse_1.0.6 ----
+[Page 1 of 4]
+World Key: minecraft:lighthouse_1.0.6
+World Name: Lighthouse_1.0.6
+World Alias: empty
+World UID: 911ea807-01fe-46da-afb7-c66768235faf
+Game Mode: SURVIVAL
+Difficulty: HARD
+Spawn Location: X: 63.5 Y: -41 Z: 55.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Lighthouse_1.0.6 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: -1460825302520239889
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Lighthouse_1.0.6 ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Lighthouse_1.0.6 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Los_Perrito
+======================================================================
+---- World Info: Los_Perrito ----
+[Page 1 of 4]
+World Key: minecraft:los_perrito
+World Name: Los_Perrito
+World Alias: empty
+World UID: 991abd7c-eb01-4840-b356-0c788d5b7af0
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: 0 Y: 76 Z: 0 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Los_Perrito ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Los_Perrito ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Los_Perrito ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Medieval_Fantasy_Mountain_Castle_1.0.6
+======================================================================
+---- World Info: Medieval_Fantasy_Mountain_Castle_1.0.6 ----
+[Page 1 of 4]
+World Key: minecraft:medieval_fantasy_mountain_castle_1.0.6
+World Name: Medieval_Fantasy_Mountain_Castle_1.0.6
+World Alias: empty
+World UID: 1a64616f-1712-484b-bc56-e1dc7c0edda5
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: -15 Y: 97 Z: -99 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Medieval_Fantasy_Mountain_Castle_1.0.6 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 5723185653701084385
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Medieval_Fantasy_Mountain_Castle_1.0.6 ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Medieval_Fantasy_Mountain_Castle_1.0.6 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Old_Fallen_castle_v1.3
+======================================================================
+---- World Info: Old_Fallen_castle_v1.3 ----
+[Page 1 of 4]
+World Key: minecraft:old_fallen_castle_v1.3
+World Name: Old_Fallen_castle_v1.3
+World Alias: empty
+World UID: b209da63-9e44-492d-a658-82fa94a02523
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: 55 Y: 106 Z: -351 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Old_Fallen_castle_v1.3 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Old_Fallen_castle_v1.3 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Old_Fallen_castle_v1.3 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Port_Medieval_City
+======================================================================
+---- World Info: Port_Medieval_City ----
+[Page 1 of 4]
+World Key: minecraft:port_medieval_city
+World Name: Port_Medieval_City
+World Alias: empty
+World UID: 31c0fed2-f8a0-49ba-8020-2c37b2fccbde
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: -350.5 Y: 65 Z: -58.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Port_Medieval_City ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 1234567890
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Port_Medieval_City ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Port_Medieval_City ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Sky_Islands_2.0
+======================================================================
+---- World Info: Sky_Islands_2.0 ----
+[Page 1 of 4]
+World Key: minecraft:sky_islands_2.0
+World Name: Sky_Islands_2.0
+World Alias: empty
+World UID: c9819874-ed75-4b52-a6c2-ce7899c368e0
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: 68.5 Y: 168 Z: -18.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Sky_Islands_2.0 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 7916752825036361986
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Sky_Islands_2.0 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Sky_Islands_2.0 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Skyshore_City
+======================================================================
+---- World Info: Skyshore_City ----
+[Page 1 of 4]
+World Key: minecraft:skyshore_city
+World Name: Skyshore_City
+World Alias: empty
+World UID: c391ed4c-3ab7-4964-a6e0-c9b66679a3fd
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: 0 Y: 59 Z: 0 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Skyshore_City ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Skyshore_City ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Skyshore_City ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Stonehill_Castle_v1.4
+======================================================================
+---- World Info: Stonehill_Castle_v1.4 ----
+[Page 1 of 4]
+World Key: minecraft:stonehill_castle_v1.4
+World Name: Stonehill_Castle_v1.4
+World Alias: empty
+World UID: cf9725a9-7969-44eb-b22c-c7a9c6546985
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: -245 Y: 76 Z: 59 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Stonehill_Castle_v1.4 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 8544097211258376177
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Stonehill_Castle_v1.4 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Stonehill_Castle_v1.4 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : TheUncensoredLibrary
+======================================================================
+---- World Info: TheUncensoredLibrary ----
+[Page 1 of 4]
+World Key: minecraft:theuncensoredlibrary
+World Name: TheUncensoredLibrary
+World Alias: empty
+World UID: ef5f27a6-f8cc-4e77-ad6c-bc92e4a4aef4
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: 1,463 Y: 12 Z: 1,974 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: TheUncensoredLibrary ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 0
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: TheUncensoredLibrary ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: TheUncensoredLibrary ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : The_Zombie_Apocalypse_IV
+======================================================================
+---- World Info: The_Zombie_Apocalypse_IV ----
+[Page 1 of 4]
+World Key: minecraft:the_zombie_apocalypse_iv
+World Name: The_Zombie_Apocalypse_IV
+World Alias: empty
+World UID: 8a86c936-b0ab-4b24-8770-27c2c5aad869
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: 866 Y: 6 Z: 1,019 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: The_Zombie_Apocalypse_IV ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: -6886139334280496323
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: The_Zombie_Apocalypse_IV ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: The_Zombie_Apocalypse_IV ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Tideworn_v4.1_1.20
+======================================================================
+---- World Info: Tideworn_v4.1_1.20 ----
+[Page 1 of 4]
+World Key: minecraft:tideworn_v4.1_1.20
+World Name: Tideworn_v4.1_1.20
+World Alias: empty
+World UID: 5074c423-5a91-4947-964b-5e6f99b5e28b
+Game Mode: SURVIVAL
+Difficulty: HARD
+Spawn Location: X: -379.5 Y: 314 Z: 214.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Tideworn_v4.1_1.20 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: -4255316387478847362
+Environment: NORMAL
+World Type: FLAT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Tideworn_v4.1_1.20 ----
+[Page 3 of 4]
+Generate Structures: false
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Tideworn_v4.1_1.20 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Tokyo_Inspired_City_1.0.10
+======================================================================
+---- World Info: Tokyo_Inspired_City_1.0.10 ----
+[Page 1 of 4]
+World Key: minecraft:tokyo_inspired_city_1.0.10
+World Name: Tokyo_Inspired_City_1.0.10
+World Alias: empty
+World UID: 4877ff96-ba1f-43a7-a2b5-36cfba5a4956
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: -164 Y: 71 Z: 505 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Tokyo_Inspired_City_1.0.10 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 8314858010280095300
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Tokyo_Inspired_City_1.0.10 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Tokyo_Inspired_City_1.0.10 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : WWs_The_Acropolis_V0.2
+======================================================================
+---- World Info: WWs_The_Acropolis_V0.2 ----
+[Page 1 of 4]
+World Key: minecraft:wws_the_acropolis_v0.2
+World Name: WWs_The_Acropolis_V0.2
+World Alias: empty
+World UID: dafd384a-8ff8-43d2-add0-2915f9b8aec3
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: -144 Y: 120 Z: -59 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: WWs_The_Acropolis_V0.2 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: WWs_The_Acropolis_V0.2 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: WWs_The_Acropolis_V0.2 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Zombie_Apocalypse
+======================================================================
+---- World Info: Zombie_Apocalypse ----
+[Page 1 of 4]
+World Key: minecraft:zombie_apocalypse
+World Name: Zombie_Apocalypse
+World Alias: empty
+World UID: 4a9f6dca-7e39-437f-a6f9-f9457d667cd7
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: 475 Y: 66 Z: -198 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Zombie_Apocalypse ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Zombie_Apocalypse ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Zombie_Apocalypse ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : Zombie_Apocalypse_MONDE_PERSO_2
+======================================================================
+---- World Info: Zombie_Apocalypse_MONDE_PERSO_2 ----
+[Page 1 of 4]
+World Key: minecraft:zombie_apocalypse_monde_perso_2
+World Name: Zombie_Apocalypse_MONDE_PERSO_2
+World Alias: empty
+World UID: 9b36a4d1-78c8-41f4-a05a-b00dc956f67d
+Game Mode: SURVIVAL
+Difficulty: NORMAL
+Spawn Location: X: 475 Y: 66 Z: -198 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: Zombie_Apocalypse_MONDE_PERSO_2 ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 27594263
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: Zombie_Apocalypse_MONDE_PERSO_2 ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: Zombie_Apocalypse_MONDE_PERSO_2 ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : grecos
+======================================================================
+---- World Info: grecos ----
+[Page 1 of 4]
+World Key: minecraft:grecos
+World Name: grecos
+World Alias: empty
+World UID: 5af836cf-5d10-425c-96a1-8d28be729f82
+Game Mode: SURVIVAL
+Difficulty: PEACEFUL
+Spawn Location: X: -1,030.5 Y: 63 Z: -69,902.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: grecos ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 5352181835108374760
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: grecos ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: grecos ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : testplat
+======================================================================
+---- World Info: testplat ----
+[Page 1 of 4]
+World Key: minecraft:testplat
+World Name: testplat
+World Alias: empty
+World UID: 46228aab-333c-46f3-8711-c046d12ea96b
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: 0 Y: -60 Z: 0 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: testplat ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 2396695499293129475
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: testplat ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: testplat ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : village
+======================================================================
+---- World Info: village ----
+[Page 1 of 4]
+World Key: minecraft:village
+World Name: village
+World Alias: empty
+World UID: 34eb383b-6b34-4b93-93b5-db7f9ac57296
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: village ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 2304287186522634641
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: VoidWorldGenerator
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: village ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: village ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : world
+======================================================================
+---- World Info: world ----
+[Page 1 of 4]
+World Key: minecraft:overworld
+World Name: world
+World Alias: empty
+World UID: 8f9eb48f-5109-4ec1-8eb9-c090d401e60f
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: 0 Y: 76 Z: 0 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: world ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 4377606139284210820
+Environment: NORMAL
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: world ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: world ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : world_nether
+======================================================================
+---- World Info: world_nether ----
+[Page 1 of 4]
+World Key: minecraft:the_nether
+World Name: world_nether
+World Alias: empty
+World UID: a35ce905-337c-4a94-a694-aae24dbf3c51
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: -0.5 Y: 66 Z: 8.5 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: world_nether ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 4377606139284210820
+Environment: NETHER
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: world_nether ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 8.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: world_nether ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+
+
+======================================================================
+MONDE : world_the_end
+======================================================================
+---- World Info: world_the_end ----
+[Page 1 of 4]
+World Key: minecraft:the_end
+World Name: world_the_end
+World Alias: empty
+World UID: e8a1b92c-589e-47fb-8f9d-a82469ef1a62
+Game Mode: SURVIVAL
+Difficulty: EASY
+Spawn Location: X: 0 Y: 61 Z: 0 P: 0 Y: 0
+Respawn World: empty
+
+
+--- PAGE 2/4 ---
+---- World Info: world_the_end ----
+[Page 2 of 4]
+Bed Respawn: true
+Anchor Respawn: true
+Seed: 4377606139284210820
+Environment: THE_END
+World Type: DEFAULT
+Biome: empty
+Generator: empty
+Generator Settings: empty
+
+
+--- PAGE 3/4 ---
+---- World Info: world_the_end ----
+[Page 3 of 4]
+Generate Structures: true
+Auto Load: true
+Keep Spawn In Memory: false
+Entry Fee: FREE!
+World Scale: 1.0
+Weather Enabled: true
+Allow Flight: false
+Grant Advancements: true
+
+
+--- PAGE 4/4 ---
+---- World Info: world_the_end ----
+[Page 4 of 4]
+Auto Heal: true
+Hunger Depletes: true
+PVP Enabled: true
+Portal Form: ALL
+Player Limit: -1
+World Blacklist: empty
+
+
+

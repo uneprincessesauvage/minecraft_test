@@ -1,0 +1,60 @@
+
+============================================================
+PAGE 1
+============================================================
+====[ Multiverse World List ]====
+[Page 1 of 4]
+Abandoned_City_v2.3 - NORMAL
+Ancient_Egypt - NORMAL
+God_Tree_House_1.0.7 - NORMAL
+Haunted_Castle - NORMAL
+Lighthouse_1.0.6 - NORMAL
+Los_Perrito - NORMAL
+Medieval_Fantasy_Mountain_Castle_1.0.6 - NORMAL
+Old_Fallen_castle_v1.3 - NORMAL
+
+
+============================================================
+PAGE 2
+============================================================
+====[ Multiverse World List ]====
+[Page 2 of 4]
+Port_Medieval_City - NORMAL
+Sky_Islands_2.0 - NORMAL
+Skyshore_City - NORMAL
+Stonehill_Castle_v1.4 - NORMAL
+TheUncensoredLibrary - NORMAL
+The_Zombie_Apocalypse_IV - NORMAL
+Tideworn_v4.1_1.20 - NORMAL
+Tokyo_Inspired_City_1.0.10 - NORMAL
+
+
+============================================================
+PAGE 3
+============================================================
+====[ Multiverse World List ]====
+[Page 3 of 4]
+WWs_The_Acropolis_V0.2 - NORMAL
+Zombie_Apocalypse - NORMAL
+Zombie_Apocalypse_MONDE_PERSO_2 - NORMAL
+grecos - NORMAL
+testplat - NORMAL
+village - NORMAL
+world - NORMAL
+world_nether - NETHER
+
+
+============================================================
+PAGE 4
+============================================================
+====[ Multiverse World List ]====
+[Page 4 of 4]
+world_the_end - THE_END
+
+
+
+
+
+
+
+

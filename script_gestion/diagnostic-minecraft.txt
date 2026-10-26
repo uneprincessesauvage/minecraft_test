@@ -1,0 +1,319 @@
+INVENTAIRE TECHNIQUE MINECRAFT
+Date : 2026-10-16T01:13:07+02:00
+Conteneur demandé : minecraft
+Aucun journal serveur n'est collecté.
+Les secrets ne doivent pas apparaître dans ce rapport.
+
+=================================================================
+1. SERVEUR ET CONTENEUR
+=================================================================
+Nom : minecraft
+État : running
+Image : itzg/minecraft-server
+Création : 2026-10-15T14:00:33.515825272Z
+Démarrage : 2026-10-15T20:14:58.895378404Z
+Redémarrage automatique : unless-stopped
+Réseaux Docker : srv_minecraft_test_default
+
+=================================================================
+2. CONFIGURATION
+=================================================================
+TYPE = PAPER
+VERSION = 26.2
+MEMORY = 8G
+JAVA_VERSION = jdk-25.0.4+7
+EULA = TRUE
+ONLINE_MODE = FALSE
+MAX_PLAYERS = 5
+MOTD = Serveur Minecraft de Test docker
+UID = 1000
+GID = 1000
+Variables sensibles : volontairement exclues.
+
+=================================================================
+3. PORTS
+=================================================================
+0.0.0.0:25566 -> 25565/tcp
+:::25566 -> 25565/tcp
+0.0.0.0:25567 -> 25575/tcp
+:::25567 -> 25575/tcp
+0.0.0.0:8090 -> 8090/tcp
+:::8090 -> 8090/tcp
+0.0.0.0:8095 -> 8095/tcp
+:::8095 -> 8095/tcp
+0.0.0.0:8100 -> 8100/tcp
+:::8100 -> 8100/tcp
+
+=================================================================
+4. VOLUMES ET DOSSIERS
+=================================================================
+/data/services/srv_test_minecraft -> /data (lecture seule : False)
+
+=================================================================
+5. PLUGINS ET MODS INSTALLÉS
+=================================================================
+
+Dossier : /data/services/srv_test_minecraft/plugins (55 fichiers JAR)
+- BentoBox-AcidIsland | version : 2.1.2
+  Fichier : AcidIsland-2.1.2.jar
+  API Minecraft : 1.19
+- Akropolis | version : 1.10.5
+  Fichier : Akropolis-1.10.5.jar
+  API Minecraft : 1.21
+- AuthMe | version : 5.7.0-FORK-b53
+  Fichier : AuthMe-5.7.0-FORK-Universal.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : - Vault
+- BentoBox | version : 3.23.1
+  Fichier : BentoBox-3.23.1.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : - Citizens
+- BetonQuest | version : 3.2.0
+  Fichier : BetonQuest-3.2.0.jar
+  API Minecraft : 1.18
+  Dépendances facultatives : - Skript
+- Chunky | version : 1.5.3
+  Fichier : Chunky-Bukkit-1.5.3.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [dynmap, BlueMap, squaremap, WorldBorder]
+- Citizens | version : 2.0.44-SNAPSHOT (build 4256)
+  Fichier : Citizens-2.0.44-b4256.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [Vault, PlaceholderAPI, WorldGuard, packetevents, Denizen]
+- CoreProtect | version : 24.1
+  Fichier : CoreProtect-CE-24.1.jar
+  API Minecraft : 1.16
+  Dépendances facultatives : [WorldEdit]
+- Denizen | version : 1.3.3-SNAPSHOT (build 7303-DEV)
+  Fichier : Denizen-1.3.3-b7303-DEV.jar
+  API Minecraft : 1.17
+  Dépendances facultatives : [Citizens, Vault]
+- Essentials | version : 2.22.0
+  Fichier : EssentialsX-2.22.0.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [Vault, LuckPerms]
+- EssDashboard | version : 1.1.0
+  Fichier : EssentialsX-Dashboard-1.1.0.jar
+  API Minecraft : 1.13
+  Dépendances : - Essentials
+  Dépendances facultatives : - EssentialsXSpawn
+- ImageDisplay | version : 1.0.0
+  Fichier : ImageDisplay-1.0.0.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : [PlaceholderAPI, ProtocolLib, ViaVersion, TAB, DecentHolograms, LuckPerms]
+- ImageFrame | version : 2026.1.5.0
+  Fichier : ImageFrame-2026.1.5.0.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : - ViaVersion
+- JobX | version : ${version}
+  Fichier : JobX-1.0-SNAPSHOT.jar
+  API Minecraft : 26.2
+- LibsDisguises | version : 26.9.24
+  Fichier : LibsDisguises-26.9.24-Free.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : - packetevents
+- LuckPerms | version : 5.5.84
+  Fichier : LuckPerms-Bukkit-5.5.84.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [LilyPad-Connect, ViaVersion]
+- MCPanel | version : 1.2.6
+  Fichier : MCPanel-1.2.6.jar
+  API Minecraft : 1.20
+- MRTSimpleBleed | version : 2.1.0
+  Fichier : MRTSimpleBleed.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : [WorldGuard, PlaceholderAPI]
+- MarriageMaster | version : 2.9.4
+  Fichier : MarriageMaster.jar
+  API Minecraft : 1.19
+- MythicMobs | version : 5.13.0-aad3f1c9
+  Fichier : MythicMobs-5.13.0.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : - Multiverse-Core
+- PlaceholderAPI | version : 2.12.3
+  Fichier : PlaceholderAPI-2.12.3.jar
+  API Minecraft : 1.13
+- PlayerPoints | version : 3.3.5
+  Fichier : PlayerPoints-3.3.5.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [Vault, Treasury, Votifier, PlaceholderAPI, TokenManager, GamePoints, NexEngine]
+- Sentinel | version : 2.9.4-SNAPSHOT (build 534)
+  Fichier : Sentinel-2.9.4-SNAPSHOT-b534.jar
+  API Minecraft : 1.13
+  Dépendances : [Citizens]
+  Dépendances facultatives : [Vault, Sentry, CrackShot, Factions, Towny, SimpleClans, War]
+- SimplePets | version : R5-B315
+  Fichier : SimplePets.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : [ProtocolLib, PlaceholderAPI]
+- SkinsRestorer | version : 15.12.6
+  Fichier : SkinsRestorer.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [ "ProtocolLib", "ViaVersion", "ViaBackwards", "ProtocolSupport", "MundoSK", "floodgate", "PlaceholderAPI", "MiniPlaceholders" ]
+- SmartSurvivalPlugin | version : 3.1.0
+  Fichier : SmartSurvivalPlugin-3.1.0.jar
+  API Minecraft : 26.1
+  Dépendances facultatives : - PlaceholderAPI
+- SmartWithdraw | version : 4.0.1
+  Fichier : SmartWithdraw.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : - Vault
+- SpawnAuth | version : 1.0.9
+  Fichier : SpawnAuth-1.0.9.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : [ AuthMe, nLogin, OpeNLogin, LoginSecurity ]
+- ThirstDecay | version : 1.0.0
+  Fichier : ThirstDecay-1.0.0.jar
+  API Minecraft : 1.21
+- BentoBox-TradeWinds | version : 0.3.0
+  Fichier : TradeWinds-0.3.0.jar
+  API Minecraft : 1.21
+- Vault | version : 1.7.3-b131
+  Fichier : Vault.jar
+  API Minecraft : 1.13
+- ViaBackwards | version : 5.11.0
+  Fichier : ViaBackwards-5.11.0.jar
+  API Minecraft : 1.13
+  Dépendances : [ViaVersion]
+- ViaVersion | version : 5.11.0
+  Fichier : ViaVersion-5.11.0.jar
+  API Minecraft : 1.13
+- VoidWorldGenerator | version : 1.3.13
+  Fichier : VoidWorldGenerator-1.3.13.jar
+  API Minecraft : 1.20
+- WorldEvents | version : 1.9.5
+  Fichier : WorldEvents-1.9.5.jar
+  API Minecraft : 1.20.6
+  Dépendances facultatives : [PlaceholderAPI, WorldEdit, FastAsyncWorldEdit, WorldGuard, GriefPrevention, Towny, Lands, Vault, ItemsAdder, Nexo, LuckPerms, Floodgate, MythicMobs, AuraSkills]
+- ajLeaderboards | version : 2.11.0
+  Fichier : ajLeaderboards-2.11.0.jar
+  API Minecraft : 1.13
+  Dépendances : [PlaceholderAPI]
+  Dépendances facultatives : [Vault, SkinsRestorer]
+- BetterModel | version : 3.5.0
+  Fichier : bettermodel-3.5.0-paper.jar
+  API Minecraft : 1.21.4
+- BlueMap | version : 5.28
+  Fichier : bluemap-5.28-paper.jar
+  API Minecraft : 26.1.1
+- BMMarker | version : 2.1.19
+  Fichier : bmm-paper-2.1.19.jar
+  API Minecraft : 1.20
+- CraftBook | version : 3.10.13-SNAPSHOT;no_git_id
+  Fichier : craftbook-3.10.13.jar
+  API Minecraft : 1.21.5
+  Dépendances : [WorldEdit]
+  Dépendances facultatives : [WorldGuard, ProtocolLib, Vault]
+- DisguisePlugin | version : 1.0.0
+  Fichier : disguise-plugin-1.0.0.jar
+  API Minecraft : 1.21
+  Dépendances facultatives : [Vault]
+- DreamDisplays | version : 1.9.6
+  Fichier : dreamdisplays-paper-1.9.6.jar
+  API Minecraft : 1.21.11
+- EconomyMachina | version : 1.2.1
+  Fichier : economymachina-1.2.1.jar
+  API Minecraft : 1.20
+  Dépendances : - Vault
+  Dépendances facultatives : - PlaceholderAPI
+- emotecraft | version : 3.4.0-b.build.170
+  Fichier : emotecraft-paper-for-MC26.2-3.4.0-b.build.170.jar
+  API Minecraft : 26.2
+- EzAfk | version : 3.1.2
+  Fichier : ezafk-3.1.2.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : - "TAB
+- LootInjector | version : 0.0.3
+  Fichier : lootinjector-paper-0.0.3.jar
+  API Minecraft : 26.2
+- Multiverse-Core | version : 5.8.1
+  Fichier : multiverse-core-5.8.1.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : ['Vault', 'PlaceholderAPI']
+- Multiverse-Inventories | version : 5.3.5
+  Fichier : multiverse-inventories-5.3.5.jar
+  API Minecraft : 1.13
+  Dépendances : ['Multiverse-Core']
+  Dépendances facultatives : [LuckPerms, PlaceholderAPI, MultiInv, WorldInventories, PerWorldInventory]
+- Multiverse-NetherPortals | version : 5.1.0
+  Fichier : multiverse-netherportals-5.1.0.jar
+  API Minecraft : 1.13
+  Dépendances : ['Multiverse-Core']
+  Dépendances facultatives : ['Multiverse-Portals']
+- Multiverse-Portals | version : 5.3.0
+  Fichier : multiverse-portals-5.3.0.jar
+  API Minecraft : 1.13
+  Dépendances : ['Multiverse-Core']
+  Dépendances facultatives : ['WorldEdit', 'PlaceholderAPI']
+- packetevents | version : 2.14.0
+  Fichier : packetevents-spigot-2.14.0.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : - ProtocolLib
+- Superheroes | version : 9.1.4
+  Fichier : superheroes-9.1.4-all.jar
+  API Minecraft : 1.21.10
+- voicechat | version : 2.6.24
+  Fichier : voicechat-bukkit-2.6.24.jar
+  API Minecraft : 1.13
+  Dépendances facultatives : [PlaceholderAPI, ViaVersion]
+- WorldEdit | version : 7.4.5+7590-b8dc4c1
+  Fichier : worldedit-bukkit-7.4.5.jar
+  API Minecraft : 1.21.4
+  Dépendances facultatives : [Vault]
+- WorldGuard | version : 7.0.13+82fdc65
+  Fichier : worldguard-bukkit-7.0.13-dist.jar
+  API Minecraft : 1.21
+  Dépendances : [WorldEdit]
+  Dépendances facultatives : [CommandBook]
+
+=================================================================
+6. JAVA
+=================================================================
+openjdk version "25.0.4" 2026-07-21 LTS
+OpenJDK Runtime Environment Temurin-25.0.4+7 (build 25.0.4+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-25.0.4+7 (build 25.0.4+7-LTS, mixed mode, sharing)
+
+=================================================================
+7. INFORMATIONS EN DIRECT
+=================================================================
+
+Commande : version
+[37mThis server is running Paper version 26.2-134-ver/26.2@3e24be0 (2026-10-14T18:33:55Z) (Implementing API version 26.2.build.134-stable)[0m
+[0m[32mYou are running the latest version[0m
+[0m[37m[3mPrevious version: 26.2-129-9240f58 (MC: 26.2)
+[0m
+
+Commande : list
+[33mThere are [31m1[33m out of maximum [31m5[33m players online.
+[0m[33mdefault[0m: [31mprincessai
+[0m
+
+Commande : plugins
+§x[36m[31m[34m[37m[35m[32mℹ [37mServer Plugins (55):
+[0m§x[30m[32m[30m[30m[35m[34mPaper Plugins (7):
+[0m [30m- [32mAkropolis[0m, [32mBetterModel[0m, [32mBMMarker[0m, [32mDreamDisplays[0m, [32memotecraft[0m, [32mMarriageMaster[0m, [32mSuperheroes
+[0m§x[33m[35m[30m[34m[30m[33mBukkit Plugins (48):
+[0m [30m- [32majLeaderboards[0m, [32mAuthMe[0m, [32mBentoBox[0m, [32mBentoBox-AcidIsland[0m, [32mBentoBox-TradeWinds[0m, [32mBetonQuest[0m, [32mBlueMap[0m, [32mChunky[0m, [32mCitizens[0m, [32mCoreProtect
+[0m [32mCraftBook[0m, [32mDenizen[0m, [32mDisguisePlugin[0m, [32mEconomyMachina[0m, [32mEssDashboard[0m, [32mEssentials[0m, [32mEzAfk[0m, [32mImageDisplay[0m, [32mImageFrame[0m, [32mJobX
+[0m [32mLibsDisguises[0m, [32mLootInjector[0m, [32mLuckPerms[0m, [32mMCPanel[0m, [32mMRTSimpleBleed[0m, [32mMultiverse-Core[0m, [32mMultiverse-Inventories[0m, [32mMultiverse-NetherPortals[0m, [32mMultiverse-Portals[0m, [32mMythicMobs
+[0m [32mpacketevents[0m, [32mPlaceholderAPI[0m, [32mPlayerPoints[0m, [32mSentinel[0m, [32mSimplePets[0m, [32mSkinsRestorer[0m, [32mSmartSurvivalPlugin[0m, [32mSmartWithdraw[0m, [32mSpawnAuth[0m, [32mThirstDecay
+[0m [32mVault[0m, [32mViaBackwards[0m, [32mViaVersion[0m, [32mvoicechat[0m, [32mVoidWorldGenerator[0m, [32mWorldEdit[0m, [32mWorldEvents[0m, [32mWorldGuard
+[0m
+
+=================================================================
+8. PROJET DOCKER COMPOSE
+=================================================================
+com.docker.compose.project : srv_minecraft_test
+com.docker.compose.service : minecraft
+com.docker.compose.project.config_files : /data/setup/srv_minecraft_test/compose.yaml
+com.docker.compose.project.working_dir : /data/setup/srv_minecraft_test
+
+=================================================================
+9. LIMITES DU RAPPORT
+=================================================================
+- Un JAR présent sur disque n'est pas forcément chargé.
+- RCON permet de consulter les informations du serveur en direct.
+- Les métadonnées d'un plugin ne déclarent pas toujours les versions Minecraft compatibles.
+- La version exacte peut être inconnue si Docker utilise LATEST ou une version non explicitement déclarée.
+- Aucun journal serveur n'a été lu.
+- Aucun réglage du serveur n'a été modifié.

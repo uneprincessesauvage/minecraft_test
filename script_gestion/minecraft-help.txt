@@ -1,0 +1,1133 @@
+
+============================================================
+PAGE 1
+============================================================
+--------- Help: Index (1/76) --------------------------
+Use /help [n] to get page n of help.
+ajLeaderboards: All commands for ajLeaderboards
+Akropolis: All commands for Akropolis
+Aliases: Lists command aliases
+AuthMe: All commands for AuthMe
+BentoBox: All commands for BentoBox
+BetonQuest: All commands for BetonQuest
+BetterModel: All commands for BetterModel
+BlueMap: All commands for BlueMap
+
+
+============================================================
+PAGE 2
+============================================================
+--------- Help: Index (2/76) --------------------------
+BMMarker: All commands for BMMarker
+Bukkit: All commands for Bukkit
+Chunky: All commands for Chunky
+Citizens: All commands for Citizens
+CoreProtect: All commands for CoreProtect
+CraftBook: All commands for CraftBook
+Denizen: All commands for Denizen
+DisguisePlugin: All commands for DisguisePlugin
+DreamDisplays: All commands for DreamDisplays
+
+
+============================================================
+PAGE 3
+============================================================
+--------- Help: Index (3/76) --------------------------
+EconomyMachina: All commands for EconomyMachina
+EssDashboard: All commands for EssDashboard
+Essentials: All commands for Essentials
+EzAfk: All commands for EzAfk
+ImageDisplay: All commands for ImageDisplay
+ImageFrame: All commands for ImageFrame
+JobX: All commands for JobX
+LibsDisguises: All commands for LibsDisguises
+LootInjector: All commands for LootInjector
+
+
+============================================================
+PAGE 4
+============================================================
+--------- Help: Index (4/76) --------------------------
+LuckPerms: All commands for LuckPerms
+MarriageMaster: All commands for MarriageMaster
+MCPanel: All commands for MCPanel
+Minecraft: All commands for Minecraft
+MRTSimpleBleed: All commands for MRTSimpleBleed
+Multiverse-Core: All commands for Multiverse-Core
+MythicMobs: All commands for MythicMobs
+Paper: All commands for Paper
+PlaceholderAPI: All commands for PlaceholderAPI
+
+
+============================================================
+PAGE 5
+============================================================
+--------- Help: Index (5/76) --------------------------
+Sentinel: All commands for Sentinel
+SkinsRestorer: All commands for SkinsRestorer
+SmartSurvivalPlugin: All commands for SmartSurvivalPlugin
+SmartWithdraw: All commands for SmartWithdraw
+ThirstDecay: All commands for ThirstDecay
+Vault: All commands for Vault
+ViaVersion: All commands for ViaVersion
+voicechat: All commands for voicechat
+WorldEdit: All commands for WorldEdit
+
+
+============================================================
+PAGE 6
+============================================================
+--------- Help: Index (6/76) --------------------------
+WorldEvents: All commands for WorldEvents
+WorldGuard: All commands for WorldGuard
+/.s: Execute last CraftScript
+//: Toggle the super pickaxe function
+//calculate: Evaluate a mathematical expression
+//center: Set the center block(s)
+//chunk: Set the selection to your current chunk.
+//cone: Generates a cone.
+//contract: Contract the selection area
+
+
+============================================================
+PAGE 7
+============================================================
+--------- Help: Index (7/76) --------------------------
+//copy: Copy the selection to the clipboard
+//count: Counts the number of blocks matching a mask
+//curve: Draws a spline through selected points
+//cut: Cut the selection to the clipboard
+//cyl: Generates a cylinder.
+//deform: Deforms a selected region with an expression
+//distr: Get the distribution of blocks in the selection
+//drain: Drain a pool
+//drawsel: Toggle drawing the current selection
+
+
+============================================================
+PAGE 8
+============================================================
+--------- Help: Index (8/76) --------------------------
+//expand: Expand the selection area
+//faces: Build the walls, ceiling, and floor of a selection
+//fast: Toggle fast mode
+//feature: Generate Minecraft features
+//fill: Fill a hole
+//fillr: Fill a hole recursively
+//flip: Flip the contents of the clipboard across the origin
+//flora: Make flora within the region
+//forest: Make a forest within the region
+
+
+============================================================
+PAGE 9
+============================================================
+--------- Help: Index (9/76) --------------------------
+//generate: Generates a shape according to a formula.
+//generatebiome: Sets biome according to a formula.
+//hcyl: Generates a hollow cylinder.
+//help: Displays help for WorldEdit commands
+//hollow: Hollows out the object contained in this selection
+//hpos1: Set position 1 to targeted block
+//hpos2: Set position 2 to targeted block
+//hpyramid: Generate a hollow pyramid
+//hsphere: Generates a hollow sphere.
+
+
+============================================================
+PAGE 10
+============================================================
+--------- Help: Index (10/76) -------------------------
+//inset: Inset the selection area
+//limit: Modify block change limit
+//line: Draws line segments between cuboid selection corners or convex polyhedral selection vertices
+//move: Move the contents of the selection
+//naturalize: 3 layers of dirt on top then rock below
+//outset: Outset the selection area
+//overlay: Set a block on top of blocks in the region
+//paste: Paste the clipboard's contents
+//perf: Toggle side effects for performance
+
+
+============================================================
+PAGE 11
+============================================================
+--------- Help: Index (11/76) -------------------------
+//pos: Set positions
+//pos1: Set position 1
+//pos2: Set position 2
+//pyramid: Generate a filled pyramid
+//regen: Regenerates the contents of the selection
+//registry: Search through the given registry
+//reorder: Sets the reorder mode of WorldEdit
+//replace: Replace all blocks in the selection with another
+//replacebiome: Replaces the biome of your current block or region.
+
+
+============================================================
+PAGE 12
+============================================================
+--------- Help: Index (12/76) -------------------------
+//revolve: Revolve the selection around a vertical axis
+//rotate: Rotate the contents of the clipboard
+//sel: Choose a region selector
+//set: Sets all the blocks in the region
+//setbiome: Sets the biome of your current block or region.
+//shift: Shift the selection area
+//size: Get information about the selection
+//smooth: Smooth the elevation in the selection
+//snowsmooth: Smooth the elevation in the selection with snow layers
+
+
+============================================================
+PAGE 13
+============================================================
+--------- Help: Index (13/76) -------------------------
+//sphere: Generates a filled sphere.
+//stack: Repeat the contents of the selection
+//structure: Generate Minecraft structures
+//timeout: Modify evaluation timeout time.
+//trim: Minimize the selection to encompass matching blocks
+//update: Apply side effects to your selection
+//walls: Build the four sides of the selection
+//wand: Get the wand item
+//watchdog: Changes watchdog hook state.
+
+
+============================================================
+PAGE 14
+============================================================
+--------- Help: Index (14/76) -------------------------
+//world: Sets the world override
+/addpin: quickly adds a pin
+/advancement: A Mojang provided command.
+/afk: Marks you as away-from-keyboard.
+/ajleaderboards: Commands for ajLeaderboards
+/akropolis: View plugin information and additional commands
+/akropolis:clearinventory: A custom Akropolis command
+/akropolis:fly: Toggle flight mode
+/akropolis:gamemode: Allows you to change gamemode
+
+
+============================================================
+PAGE 15
+============================================================
+--------- Help: Index (15/76) -------------------------
+/akropolis:vanish: Disappear into thin air!
+/allowfire: [<world>] - Allows all fire spread temporarily
+/antioch: A little surprise for operators.
+/anvil: Opens up an anvil.
+/apocalypse: Trigger or stop apocalypse events
+/area: Commands to manage Craftbook Areas
+/ascend: Go up a floor
+/attribute: A Mojang provided command.
+/authme: AuthMe op commands
+
+
+============================================================
+PAGE 16
+============================================================
+--------- Help: Index (16/76) -------------------------
+/back: Teleports you to your location prior to tp/spawn/warp.
+/backpack: Opens quest backpack
+/backup: Runs the backup if configured.
+/balance: States the current balance of a player.
+/balancetop: Gets the top balance values.
+/ban: Bans a player.
+/ban-ip: A Mojang provided command.
+/banip: Bans an IP address.
+/banlist: A Mojang provided command.
+
+
+============================================================
+PAGE 17
+============================================================
+--------- Help: Index (17/76) -------------------------
+/beezooka: Throw an exploding bee at your opponent.
+/bentobox: commands.bentobox.description
+/betonquest: General quest command
+/betonquest:compass: Opens the compass menu
+/betonquestanswer: Selects an answer in a conversation
+/bettermodel: All-related command.
+/bettermodel:bettermodel: All-related command.
+/bettermodel:bm: All-related command.
+/bettermodel:model: All-related command.
+
+
+============================================================
+PAGE 18
+============================================================
+--------- Help: Index (18/76) -------------------------
+/bigtree: Spawn a big tree where you are looking.
+/biomeinfo: Get the biome of the targeted block.
+/biomelist: Gets all biomes available.
+/bleed: Manage the bleeding effect.
+/bluemap: 
+/bluemap:bluemap: 
+/bm: All-related command.
+/bmarker: A command by the BMMarker plugin.
+/bmarker-setup: A command by the BMMarker plugin.
+
+
+============================================================
+PAGE 19
+============================================================
+--------- Help: Index (19/76) -------------------------
+/bmarker-setup-set: A command by the BMMarker plugin.
+/bmmarker:bmarker: A command by the BMMarker plugin.
+/bmmarker:bmarker-setup: A command by the BMMarker plugin.
+/bmmarker:bmarker-setup-set: A command by the BMMarker plugin.
+/bmmarker:bplayer: A command by the BMMarker plugin.
+/bmmarker:bsettings: A command by the BMMarker plugin.
+/bmmarker:btemplate: A command by the BMMarker plugin.
+/bmmarker:btp: A command by the BMMarker plugin.
+/book: Allows reopening and editing of sealed books.
+
+
+============================================================
+PAGE 20
+============================================================
+--------- Help: Index (20/76) -------------------------
+/booster: 
+/bossbar: A Mojang provided command.
+/bottom: Teleport to the lowest block at your current position.
+/bplayer: A command by the BMMarker plugin.
+/break: Breaks the block you are looking at.
+/broadcast: Broadcasts a message to the entire server.
+/broadcastworld: Broadcasts a message to a world.
+/brush: Brushing commands
+/bsettings: A command by the BMMarker plugin.
+
+
+============================================================
+PAGE 21
+============================================================
+--------- Help: Index (21/76) -------------------------
+/btemplate: A command by the BMMarker plugin.
+/btp: A command by the BMMarker plugin.
+/bukkit:about: Gets the version of this server including any plugins in use
+/bukkit:help: Shows the help menu
+/bukkit:pl: Gets a list of plugins running on the server
+/bukkit:plugins: Gets a list of plugins running on the server
+/bukkit:ver: Gets the version of this server including any plugins in use
+/bukkit:version: Gets the version of this server including any plugins in use
+/burn: Set a player on fire.
+
+
+============================================================
+PAGE 22
+============================================================
+--------- Help: Index (22/76) -------------------------
+/butcher: Kill all or nearby mobs
+/cancelquest: Opens the window with quest cancelers
+/captcha: Captcha command
+/cartographytable: Opens up a cartography table.
+/cauldron: Commands to manage the Craftbook Cauldron
+/ceil: Go to the ceiling
+/changepassword: Change password of an account
+/chunkinfo: Get information about the chunk you're inside
+/chunky: Generates chunks
+
+
+============================================================
+PAGE 23
+============================================================
+--------- Help: Index (23/76) -------------------------
+/citizens: Administration commands
+/clearchat: Clear global or a player's chat
+/clearclipboard: Clear your clipboard
+/clearhistory: Clear your history
+/clearinventory: Clear all items in your inventory.
+/clearinventoryconfirmtoggle: Toggles whether you are prompted to confirm inventory clears.
+/clone: A Mojang provided command.
+/co: Utilize the plugin
+/comitems: Commands to manage Craftbook Command Items
+
+
+============================================================
+PAGE 24
+============================================================
+--------- Help: Index (24/76) -------------------------
+/compass: Describes your current bearing.
+/condense: Condenses items into a more compact blocks.
+/copydisguise: Output a disguise to a usable string
+/craftbook: CraftBook Plugin commands
+/createkit: Create a kit in game!
+/cs: Execute a CraftScript
+/customtext: Allows you to create custom text commands.
+/cycler: Block data cycler tool
+/damage: A Mojang provided command.
+
+
+============================================================
+PAGE 25
+============================================================
+--------- Help: Index (25/76) -------------------------
+/data: A Mojang provided command.
+/datapack: A Mojang provided command.
+/debug: A Mojang provided command.
+/defaultgamemode: A Mojang provided command.
+/delchunks: Delete chunks that your selection includes
+/delhome: Removes a home.
+/deljail: Removes a jail.
+/delkit: Deletes the specified kit.
+/deltree: Floating tree remover tool
+
+
+============================================================
+PAGE 26
+============================================================
+--------- Help: Index (26/76) -------------------------
+/delwarp: Deletes the specified warp.
+/denizen: Lists denizen commands.
+/denizenclickable: Executes a Denizen clickable command.
+/deop: A Mojang provided command.
+/deposit: Deposit all notes in your inventory
+/depth: States current depth, relative to sea level.
+/descend: Go down a floor
+/dialog: A Mojang provided command.
+/difficulty: A Mojang provided command.
+
+
+============================================================
+PAGE 27
+============================================================
+--------- Help: Index (27/76) -------------------------
+/disguise: Disguise yourself as an entity.
+/disguiseanimation: Play a supported animation on your own disguise
+/disguiseclone: Copy a disguise (or entity) and use it later.
+/disguiseentity: Disguise an entity as another entity.
+/disguiseentityanimation: Play a supported animation on a right clicked entity's disguise
+/disguisehelp: Help command for LibsDisguises.
+/disguisemodify: Modify your own disguise
+/disguisemodifyentity: Modify a disguise by right clicking them
+/disguisemodifyplayer: Modify the disguise of a player
+
+
+============================================================
+PAGE 28
+============================================================
+--------- Help: Index (28/76) -------------------------
+/disguisemodifyradius: Modify disguises in a radius
+/disguisemodifyselector: Modify entity disguises via entity selector
+/disguiseplayer: Disguise another player as an entity.
+/disguiseplayeranimation: Play a supported animation on a player/uuid's disguise
+/disguiseradius: Disguise all entities within a radius as an entity.
+/disguiseradiusanimation: Play a supported animation on all supported disguises in a radius
+/disguiseselector: Disguise entities via entity selector.
+/disguiseselectoranimation: Play a supported animation on all supported disguises via entity selector.
+/disguiseviewbar: Toggle seeing your own disguise on or off.
+
+
+============================================================
+PAGE 29
+============================================================
+--------- Help: Index (29/76) -------------------------
+/disguiseviewself: Toggle seeing your own disguise on or off.
+/display: Main Dream Displays command
+/disposal: Opens a portable disposal menu.
+/dp: Open the disguise menu
+/dreamdisplays:display: Main Dream Displays command
+/eco: Manages the server economy.
+/editsign: Edits a sign in the world.
+/effect: A Mojang provided command.
+/em: EconomyMachina admin commands.
+
+
+============================================================
+PAGE 30
+============================================================
+--------- Help: Index (30/76) -------------------------
+/email: Add email or recover password
+/emotes: A Mojang provided command.
+/enchant: Enchants the item the user is holding.
+/enderchest: Lets you see inside an enderchest.
+/essdashboard: Show the EssentialsX Dashboard URL and status.
+/essentials: Reloads essentials.
+/essentials:god: Enables your godly powers.
+/essentials:heal: Heals you or the given player.
+/essentials:info: Shows information set by the server owner.
+
+
+============================================================
+PAGE 31
+============================================================
+--------- Help: Index (31/76) -------------------------
+/essentials:remove: Removes entities in your world.
+/essentials:skull: Set the owner of a player skull
+/essentials:spawnmob: Spawns a mob.
+/essentials:tree: Spawn a tree where you are looking.
+/ex: Executes a Denizen script command.
+/execute: A Mojang provided command.
+/exp: Give, set, reset, or look at a players experience.
+/experience: A Mojang provided command.
+/exs: Executes a Denizen script command in a sustained queue.
+
+
+============================================================
+PAGE 32
+============================================================
+--------- Help: Index (32/76) -------------------------
+/ext: Extinguish players.
+/extinguish: Extinguish nearby fire
+/ezafk: Manage AFK states and EzAfk configuration
+/farwand: Wand at a distance tool
+/feed: Satisfy the hunger.
+/fetchprofile: A Mojang provided command.
+/fill: A Mojang provided command.
+/fillbiome: A Mojang provided command.
+/fireball: Throw a fireball or other assorted projectiles.
+
+
+============================================================
+PAGE 33
+============================================================
+--------- Help: Index (33/76) -------------------------
+/firework: Allows you to modify a stack of fireworks.
+/fixlava: Fix lava to be stationary
+/fixwater: Fix water to be stationary
+/floodfill: Flood fill tool
+/fly: Take off, and soar!
+/forceload: A Mojang provided command.
+/forestgen: Generate a forest
+/function: A Mojang provided command.
+/gamemode: Change player gamemode.
+
+
+============================================================
+PAGE 34
+============================================================
+--------- Help: Index (34/76) -------------------------
+/gamerule: A Mojang provided command.
+/gc: Reports memory, uptime and tick info.
+/getpos: Get your current coordinates or those of a player.
+/give: Give a player an item.
+/gma: Change to adventure mode
+/gmask: Set the global mask
+/gmc: Change to creative mode
+/gms: Change to survival mode
+/gmsp: Change to spectator mode
+
+
+============================================================
+PAGE 35
+============================================================
+--------- Help: Index (35/76) -------------------------
+/god: [player] - Enable godmode on a player
+/grabhead: Grab the head item of a skin, url or player
+/grabskin: Grab a skin from file, url or player name/uuid
+/green: Converts dirt to grass blocks in the area
+/grindstone: Opens up a grindstone.
+/halt-activity: [confirm] - Attempts to cease as much activity in order to stop lag
+/hat: Get some cool new headgear.
+/headdrops: Commands to manage Craftbook Head Drops
+/heal: [player] - Heal a player
+
+
+============================================================
+PAGE 36
+============================================================
+--------- Help: Index (36/76) -------------------------
+/help: Views a list of available commands.
+/helpop: Message online admins.
+/hero: The root command of all of the commands within Superheroes
+/home: Teleport to your home.
+/ic: Commands to manage Craftbook IC's
+/ice: Cools a player off.
+/ignore: Ignore or unignore other players.
+/imagedisplay: ImageDisplay management commands
+/imageframe: Plugin main command
+
+
+============================================================
+PAGE 37
+============================================================
+--------- Help: Index (37/76) -------------------------
+/info: Block information tool
+/invsee: See the inventory of other players.
+/item: Spawn an item.
+/itemdb: Searches for an item.
+/itemlore: Edit the lore of an item.
+/itemname: Names an item.
+/jailedplayers: List all jailed players.
+/jails: List all jails.
+/jfr: A Mojang provided command.
+
+
+============================================================
+PAGE 38
+============================================================
+--------- Help: Index (38/76) -------------------------
+/job: 
+/jobadmin: 
+/jobx: 
+/jobxadmin: 
+/journal: Adds journal to your inventory
+/jump: Jumps to the nearest block in the line of sight.
+/jumpto: Teleport to a location
+/kick: Kicks a specified player with a reason.
+/kickall: Kicks all players off the server except the issuer.
+
+
+============================================================
+PAGE 39
+============================================================
+--------- Help: Index (39/76) -------------------------
+/kill: Kills specified player.
+/kit: Obtains the specified kit or views all available kits.
+/kitreset: Resets the cooldown on the specified kit.
+/kittycannon: Throw an exploding kitten at your opponent.
+/libsdisguises: Main command for libsdisguises.
+/lightning: The power of Thor. Strike at cursor or player.
+/list: List all online players.
+/listchunks: List chunks that your selection includes
+/lobby: Teleport to the lobby (if set)
+
+
+============================================================
+PAGE 40
+============================================================
+--------- Help: Index (40/76) -------------------------
+/locate: [player] - Locate a player
+/lockchat: Locks global chat
+/login: Login command
+/logout: Logout command
+/loom: Opens up a loom.
+/loot: A Mojang provided command.
+/lootinjector: Open LootInjector GUI / command suite
+/lrbuild: Long-range building tool
+/luckperms: Manage permissions
+
+
+============================================================
+PAGE 41
+============================================================
+--------- Help: Index (41/76) -------------------------
+/mail: Manages inter-player, intra-server mail.
+/marry: 
+/mask: Set the brush mask
+/material: Set the brush material
+/mcpanel: MCPanel management
+/me: Describes an action in the context of the player.
+/minecraft:advancement: A Mojang provided command.
+/minecraft:attribute: A Mojang provided command.
+/minecraft:ban: A Mojang provided command.
+
+
+============================================================
+PAGE 42
+============================================================
+--------- Help: Index (42/76) -------------------------
+/minecraft:ban-ip: A Mojang provided command.
+/minecraft:banlist: A Mojang provided command.
+/minecraft:bossbar: A Mojang provided command.
+/minecraft:clear: A Mojang provided command.
+/minecraft:clone: A Mojang provided command.
+/minecraft:damage: A Mojang provided command.
+/minecraft:data: A Mojang provided command.
+/minecraft:datapack: A Mojang provided command.
+/minecraft:debug: A Mojang provided command.
+
+
+============================================================
+PAGE 43
+============================================================
+--------- Help: Index (43/76) -------------------------
+/minecraft:defaultgamemode: A Mojang provided command.
+/minecraft:deop: A Mojang provided command.
+/minecraft:dialog: A Mojang provided command.
+/minecraft:difficulty: A Mojang provided command.
+/minecraft:effect: A Mojang provided command.
+/minecraft:enchant: A Mojang provided command.
+/minecraft:execute: A Mojang provided command.
+/minecraft:experience: A Mojang provided command.
+/minecraft:fetchprofile: A Mojang provided command.
+
+
+============================================================
+PAGE 44
+============================================================
+--------- Help: Index (44/76) -------------------------
+/minecraft:fill: A Mojang provided command.
+/minecraft:fillbiome: A Mojang provided command.
+/minecraft:forceload: A Mojang provided command.
+/minecraft:function: A Mojang provided command.
+/minecraft:gamemode: A Mojang provided command.
+/minecraft:gamerule: A Mojang provided command.
+/minecraft:give: A Mojang provided command.
+/minecraft:help: A Mojang provided command.
+/minecraft:item: A Mojang provided command.
+
+
+============================================================
+PAGE 45
+============================================================
+--------- Help: Index (45/76) -------------------------
+/minecraft:jfr: A Mojang provided command.
+/minecraft:kick: A Mojang provided command.
+/minecraft:kill: A Mojang provided command.
+/minecraft:list: A Mojang provided command.
+/minecraft:locate: A Mojang provided command.
+/minecraft:loot: A Mojang provided command.
+/minecraft:me: A Mojang provided command.
+/minecraft:msg: A Mojang provided command.
+/minecraft:op: A Mojang provided command.
+
+
+============================================================
+PAGE 46
+============================================================
+--------- Help: Index (46/76) -------------------------
+/minecraft:pardon: A Mojang provided command.
+/minecraft:pardon-ip: A Mojang provided command.
+/minecraft:particle: A Mojang provided command.
+/minecraft:perf: A Mojang provided command.
+/minecraft:place: A Mojang provided command.
+/minecraft:playsound: A Mojang provided command.
+/minecraft:random: A Mojang provided command.
+/minecraft:recipe: A Mojang provided command.
+/minecraft:reload: A Mojang provided command.
+
+
+============================================================
+PAGE 47
+============================================================
+--------- Help: Index (47/76) -------------------------
+/minecraft:return: A Mojang provided command.
+/minecraft:ride: A Mojang provided command.
+/minecraft:rotate: A Mojang provided command.
+/minecraft:save-all: A Mojang provided command.
+/minecraft:save-off: A Mojang provided command.
+/minecraft:save-on: A Mojang provided command.
+/minecraft:say: A Mojang provided command.
+/minecraft:schedule: A Mojang provided command.
+/minecraft:scoreboard: A Mojang provided command.
+
+
+============================================================
+PAGE 48
+============================================================
+--------- Help: Index (48/76) -------------------------
+/minecraft:seed: A Mojang provided command.
+/minecraft:setblock: A Mojang provided command.
+/minecraft:setidletimeout: A Mojang provided command.
+/minecraft:setworldspawn: A Mojang provided command.
+/minecraft:spawnpoint: A Mojang provided command.
+/minecraft:spectate: A Mojang provided command.
+/minecraft:spreadplayers: A Mojang provided command.
+/minecraft:stop: A Mojang provided command.
+/minecraft:stopsound: A Mojang provided command.
+
+
+============================================================
+PAGE 49
+============================================================
+--------- Help: Index (49/76) -------------------------
+/minecraft:stopwatch: A Mojang provided command.
+/minecraft:summon: A Mojang provided command.
+/minecraft:swing: A Mojang provided command.
+/minecraft:tag: A Mojang provided command.
+/minecraft:team: A Mojang provided command.
+/minecraft:teammsg: A Mojang provided command.
+/minecraft:teleport: A Mojang provided command.
+/minecraft:tell: A Mojang provided command.
+/minecraft:tellraw: A Mojang provided command.
+
+
+============================================================
+PAGE 50
+============================================================
+--------- Help: Index (50/76) -------------------------
+/minecraft:test: A Mojang provided command.
+/minecraft:tick: A Mojang provided command.
+/minecraft:time: A Mojang provided command.
+/minecraft:title: A Mojang provided command.
+/minecraft:tm: A Mojang provided command.
+/minecraft:tp: A Mojang provided command.
+/minecraft:transfer: A Mojang provided command.
+/minecraft:trigger: A Mojang provided command.
+/minecraft:version: A Mojang provided command.
+
+
+============================================================
+PAGE 51
+============================================================
+--------- Help: Index (51/76) -------------------------
+/minecraft:w: A Mojang provided command.
+/minecraft:waypoint: A Mojang provided command.
+/minecraft:weather: A Mojang provided command.
+/minecraft:whitelist: A Mojang provided command.
+/minecraft:worldborder: A Mojang provided command.
+/minecraft:xp: A Mojang provided command.
+/model: All-related command.
+/more: Fills the item stack in hand to specified amount, or to maximum size if none is specified.
+/motd: Views the Message Of The Day.
+
+
+============================================================
+PAGE 52
+============================================================
+--------- Help: Index (52/76) -------------------------
+/msg: Sends a private message to the specified player.
+/msgtoggle: Blocks receiving all private messages.
+/mspt: View server tick times
+/mute: Mutes or unmutes a player.
+/mv: 
+/mvinv: 
+/mvnp: 
+/mvp: 
+/mvsetspawn: Sets the spawn location of the specified world
+
+
+============================================================
+PAGE 53
+============================================================
+--------- Help: Index (53/76) -------------------------
+/mvspawn: Teleports the specified player to the spawn of the world they are in
+/mvtp: Allows you to teleport to a location on your server!
+/mythicmobs: MythicMobs base command
+/mythicmobsmenu: MythicMobs menu command
+/navwand: Navigation wand tool
+/near: Lists the players near by or around a player.
+/nick: Change your nickname or that of another player.
+/none: Unbind a bound tool from your current item
+/npc: Basic commands for all NPC-related things
+
+
+============================================================
+PAGE 54
+============================================================
+--------- Help: Index (54/76) -------------------------
+/nuke: May death rain upon them.
+/op: A Mojang provided command.
+/origin: The root command of all of the commands within Superheroes
+/paper: Paper related commands
+/paper:mspt: View server tick times
+/paper:spark: 
+/pardon-ip: A Mojang provided command.
+/particle: A Mojang provided command.
+/party: Manage your survival party
+
+
+============================================================
+PAGE 55
+============================================================
+--------- Help: Index (55/76) -------------------------
+/pay: Pays another player from your balance.
+/payconfirmtoggle: Toggles whether you are prompted to confirm payments.
+/paytoggle: Toggles whether you are accepting payments.
+/perf: A Mojang provided command.
+/pet: This is the main command for the plugin
+/ping: Pong!
+/pins: Easier command for pins
+/pl: Gets a list of plugins running on the server
+/place: A Mojang provided command.
+
+
+============================================================
+PAGE 56
+============================================================
+--------- Help: Index (56/76) -------------------------
+/placeholderapi: PlaceholderAPI Command
+/placement: Select which placement to use
+/playsound: A Mojang provided command.
+/playtime: Shows a player's time played in game
+/plugins: Gets a list of plugins running on the server
+/points: 
+/potion: Adds custom potion effects to a potion.
+/powertool: Assigns a command to the item in hand.
+/powertoollist: Lists all current powertools.
+
+
+============================================================
+PAGE 57
+============================================================
+--------- Help: Index (57/76) -------------------------
+/powertooltoggle: Enables or disables all current powertools.
+/ptime: Adjust player's client time. Add @ prefix to fix.
+/pumpkins: Generate pumpkin patches
+/pweather: Adjust a player's weather
+/questlang: Changes the language
+/r: Quickly reply to the last player to message you.
+/random: A Mojang provided command.
+/range: Set the brush range
+/realname: Displays the username of a user based on nick.
+
+
+============================================================
+PAGE 58
+============================================================
+--------- Help: Index (58/76) -------------------------
+/recipe: Displays how to craft items.
+/recp: Commands to manage Craftbook Custom Recipes
+/redo: Redoes the last action (from history)
+/region: Region management commands
+/register: Register an account
+/reload: A Mojang provided command.
+/remove: Remove all entities of a type
+/removeabove: Remove blocks above your head.
+/removebelow: Remove blocks below you.
+
+
+============================================================
+PAGE 59
+============================================================
+--------- Help: Index (59/76) -------------------------
+/removenear: Remove blocks near you.
+/renamehome: Renames a home.
+/repair: Repairs the durability of one or all items.
+/repl: Block replacer tool
+/replacenear: Replace nearby blocks
+/rest: Rests you or the given player.
+/restart: Restarts the server
+/restore: Restore the selection from a snapshot
+/ride: A Mojang provided command.
+
+
+============================================================
+PAGE 60
+============================================================
+--------- Help: Index (60/76) -------------------------
+/rotate: A Mojang provided command.
+/rpgmenu: Core command of the RPGMenu addon for BetonQuest
+/rtoggle: Change whether the recipient of the reply is last recipient or last sender
+/rules: Views the server rules.
+/rwd: 
+/save-all: A Mojang provided command.
+/save-off: A Mojang provided command.
+/save-on: A Mojang provided command.
+/savedisguise: Save a custom disguise to disguises.yml
+
+
+============================================================
+PAGE 61
+============================================================
+--------- Help: Index (61/76) -------------------------
+/say: A Mojang provided command.
+/schedule: A Mojang provided command.
+/schematic: Schematic commands for saving/loading areas
+/scoreboard: A Mojang provided command.
+/searchitem: Search for an item
+/seed: A Mojang provided command.
+/seen: Shows the last logout time of a player.
+/sell: Sells the item currently in your hand.
+/selwand: Selection wand tool
+
+
+============================================================
+PAGE 62
+============================================================
+--------- Help: Index (62/76) -------------------------
+/sentinel: Lists Sentinel commands.
+/setblock: A Mojang provided command.
+/sethome: Set your home to your current location.
+/setidletimeout: A Mojang provided command.
+/setjail: Creates a jail where you specified named [jailname].
+/setlobby: Set the lobby location
+/settpr: Set the random teleport location and parameters.
+/setwarp: Creates a new warp.
+/setworldspawn: A Mojang provided command.
+
+
+============================================================
+PAGE 63
+============================================================
+--------- Help: Index (63/76) -------------------------
+/setworth: Set the sell value of an item.
+/showkit: Show contents of a kit.
+/sign: Commands to manage the Sign Copier
+/size: Set the brush size
+/skills: View your survival skills (opens GUI)
+/skin: Changes your own skin.
+/skull: Gives you a skull.
+/slay: [player] - Slay a player
+/smartsurvival: Main admin command for SmartSurvival
+
+
+============================================================
+PAGE 64
+============================================================
+--------- Help: Index (64/76) -------------------------
+/smartwithdraw: SmartWithdraw main command
+/smithingtable: Opens up a smithing table.
+/snapshot: Snapshot commands for restoring backups
+/snow: Simulates snow
+/socialspy: Toggles if you can see msg/mail commands in chat.
+/spark: 
+/spawner: Change the mob type of a spawner.
+/spawnmob: Spawn a mob
+/spawnpoint: A Mojang provided command.
+
+
+============================================================
+PAGE 65
+============================================================
+--------- Help: Index (65/76) -------------------------
+/spectate: A Mojang provided command.
+/speed: Change your speed limits.
+/spigot: Spigot related commands
+/spreadplayers: A Mojang provided command.
+/sr: Admin commands for SkinsRestorer.
+/stack: Stack items
+/stats: View your survival statistics (opens GUI)
+/stonecutter: Opens up a stonecutter.
+/stop: A Mojang provided command.
+
+
+============================================================
+PAGE 66
+============================================================
+--------- Help: Index (66/76) -------------------------
+/stopfire: [<world>] - Disables all fire spread temporarily
+/stopsound: A Mojang provided command.
+/stopwatch: A Mojang provided command.
+/sudo: Make another user perform a command.
+/suicide: Causes you to perish.
+/summon: A Mojang provided command.
+/superpickaxe: Super-pickaxe commands
+/survivalstatus: View your current survival status (temp, thirst, stamina)
+/swing: A Mojang provided command.
+
+
+============================================================
+PAGE 67
+============================================================
+--------- Help: Index (67/76) -------------------------
+/tag: A Mojang provided command.
+/team: A Mojang provided command.
+/teammsg: A Mojang provided command.
+/tellraw: A Mojang provided command.
+/tempban: Temporary ban a user.
+/tempbanip: Temporarily ban an IP Address.
+/template: Template commands
+/test: A Mojang provided command.
+/thaw: Thaws the area
+
+
+============================================================
+PAGE 68
+============================================================
+--------- Help: Index (68/76) -------------------------
+/thirst: View your current thirst.
+/thirstdecay: View ThirstDecay help and use administrative commands.
+/thru: Pass through walls
+/thunder: Enable/disable thunder.
+/tick: A Mojang provided command.
+/time: Display/Change the world time. Defaults to current world.
+/timings: Manages Spigot Timings data to see performance of the server.
+/title: A Mojang provided command.
+/tm: A Mojang provided command.
+
+
+============================================================
+PAGE 69
+============================================================
+--------- Help: Index (69/76) -------------------------
+/toggleeditwand: Remind the user that the wand is now a tool and can be unbound with /tool none.
+/togglejail: Jails/Unjails a player, TPs them to the jail specified.
+/toggleplace: Switch between your position and pos1 for placement
+/tool: Binds a tool to the item in your hand
+/top: Teleport to the highest block at your current position.
+/totp: TOTP commands
+/tp: Teleport to a player.
+/tpa: Request to teleport to the specified player.
+/tpaall: Requests all players online to teleport to you.
+
+
+============================================================
+PAGE 70
+============================================================
+--------- Help: Index (70/76) -------------------------
+/tpacancel: Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.
+/tpaccept: Accepts teleport requests.
+/tpahere: Request that the specified player teleport to you.
+/tpall: Teleport all online players to another player.
+/tpauto: Automatically accept teleportation requests.
+/tpdeny: Rejects teleport requests.
+/tphere: Teleport a player to you.
+/tpo: Teleport override for tptoggle.
+/tpoffline: Teleport to a player's last known logout location
+
+
+============================================================
+PAGE 71
+============================================================
+--------- Help: Index (71/76) -------------------------
+/tpohere: Teleport here override for tptoggle.
+/tppos: Teleport to coordinates.
+/tpr: Teleport randomly.
+/tps: Gets the current ticks per second for the server
+/tptoggle: Blocks all forms of teleportation.
+/tracemask: Set the mask used to stop tool traces
+/trait: Trait commands
+/transfer: A Mojang provided command.
+/tree: Tree generator tool
+
+
+============================================================
+PAGE 72
+============================================================
+--------- Help: Index (72/76) -------------------------
+/trigger: A Mojang provided command.
+/unban: Unbans the specified player.
+/unbanip: Unbans the specified IP address.
+/undisguise: Undisguise yourself.
+/undisguiseentity: Undisguise an entity.
+/undisguiseplayer: Undisguise a player.
+/undisguiseradius: Undisguise all entities within a radius.
+/undisguiseselector: Undisguise all entities in an entity selector.
+/undo: Undoes the last action (from history)
+
+
+============================================================
+PAGE 73
+============================================================
+--------- Help: Index (73/76) -------------------------
+/ungod: [player] - Disable godmode on a player
+/unlimited: Allows the unlimited placing of items.
+/unregister: Unregister an account
+/unstuck: Escape from being stuck inside a block
+/up: Go upwards some distance
+/vanish: Hide yourself from other players.
+/vault-convert: Converts all data in economy1 and dumps it into economy2
+/vault-info: Displays information about Vault
+/ver: Gets the version of this server including any plugins in use
+
+
+============================================================
+PAGE 74
+============================================================
+--------- Help: Index (74/76) -------------------------
+/verification: Verification command
+/version: Gets the version of this server including any plugins in use
+/viaversion: Shows ViaVersion Version and more.
+/voicechat: Manage voice chat
+/warp: List all warps or warp to the specified location.
+/warpinfo: Finds location information for a specified warp.
+/waypoint: A Mojang provided command.
+/waypoints: Waypoint commands
+/weather: Sets the weather.
+
+
+============================================================
+PAGE 75
+============================================================
+--------- Help: Index (75/76) -------------------------
+/website: A custom Akropolis command
+/wevent: Manage world events and player preferences
+/whitelist: A Mojang provided command.
+/whois: Determine basic information about the specified player.
+/withdraw: Withdraw balance as notes
+/workbench: Opens up a workbench.
+/world: Switch between worlds.
+/worldborder: A Mojang provided command.
+/worldedit: WorldEdit commands
+
+
+============================================================
+PAGE 76
+============================================================
+--------- Help: Index (76/76) -------------------------
+/worldguard: WorldGuard commands
+/worth: Calculates the worth of items in hand or as specified.
+

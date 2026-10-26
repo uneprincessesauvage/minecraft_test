@@ -1,0 +1,2475 @@
+
+============================================================
+MONDE : Abandoned_City_v2.3
+============================================================
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Abandoned_City_v2.3 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Ancient_Egypt
+============================================================
+--- Gamerules for Ancient_Egypt ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: false
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: false
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: false
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: false
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Ancient_Egypt ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : God_Tree_House_1.0.7
+============================================================
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 0
+minecraft:raids: true
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for God_Tree_House_1.0.7 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Haunted_Castle
+============================================================
+--- Gamerules for Haunted_Castle ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 1
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Haunted_Castle ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Lighthouse_1.0.6
+============================================================
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: false
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 0
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: false
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: false
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 0
+minecraft:raids: true
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: false
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: false
+minecraft:random_tick_speed: 0
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: false
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: false
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Lighthouse_1.0.6 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Los_Perrito
+============================================================
+--- Gamerules for Los_Perrito ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: false
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Los_Perrito ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: false
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Los_Perrito ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 0
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: false
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Los_Perrito ---
+[Page 4 of 8]
+minecraft:mob_griefing: false
+minecraft:spawn_mobs: false
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 110
+minecraft:advance_weather: false
+
+
+--- Gamerules for Los_Perrito ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: false
+minecraft:command_block_output: false
+minecraft:respawn_radius: 0
+minecraft:raids: false
+
+
+--- Gamerules for Los_Perrito ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: false
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Los_Perrito ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 0
+minecraft:fire_damage: true
+minecraft:entity_drops: false
+minecraft:advance_time: false
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Los_Perrito ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Medieval_Fantasy_Mountain_Castle_1.0.6
+============================================================
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: false
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 0
+minecraft:raids: true
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Medieval_Fantasy_Mountain_Castle_1.0.6 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Old_Fallen_castle_v1.3
+============================================================
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: false
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 0
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Old_Fallen_castle_v1.3 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Port_Medieval_City
+============================================================
+--- Gamerules for Port_Medieval_City ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 1
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: false
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: true
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Port_Medieval_City ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Sky_Islands_2.0
+============================================================
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Sky_Islands_2.0 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Skyshore_City
+============================================================
+--- Gamerules for Skyshore_City ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Skyshore_City ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Skyshore_City ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Skyshore_City ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 1
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Skyshore_City ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Skyshore_City ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Skyshore_City ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Skyshore_City ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Stonehill_Castle_v1.4
+============================================================
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Stonehill_Castle_v1.4 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : TheUncensoredLibrary
+============================================================
+--- Gamerules for TheUncensoredLibrary ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 0
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: false
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: false
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 1
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: false
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: false
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 0
+minecraft:fire_damage: true
+minecraft:entity_drops: false
+minecraft:advance_time: false
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for TheUncensoredLibrary ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : The_Zombie_Apocalypse_IV
+============================================================
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: false
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: false
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 0
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: false
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: false
+minecraft:respawn_radius: 10
+minecraft:raids: false
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: true
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 7 of 8]
+minecraft:spawn_patrols: false
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for The_Zombie_Apocalypse_IV ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Tideworn_v4.1_1.20
+============================================================
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: false
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: false
+minecraft:respawn_radius: 0
+minecraft:raids: true
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Tideworn_v4.1_1.20 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Tokyo_Inspired_City_1.0.10
+============================================================
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 0
+minecraft:raids: true
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: false
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Tokyo_Inspired_City_1.0.10 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : WWs_The_Acropolis_V0.2
+============================================================
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 0
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: false
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 1
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: false
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for WWs_The_Acropolis_V0.2 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Zombie_Apocalypse
+============================================================
+--- Gamerules for Zombie_Apocalypse ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 4 of 8]
+minecraft:mob_griefing: false
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Zombie_Apocalypse ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : Zombie_Apocalypse_MONDE_PERSO_2
+============================================================
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 4 of 8]
+minecraft:mob_griefing: false
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for Zombie_Apocalypse_MONDE_PERSO_2 ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : grecos
+============================================================
+--- Gamerules for grecos ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for grecos ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: false
+minecraft:global_sound_events: true
+
+
+--- Gamerules for grecos ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for grecos ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 2147483647
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: false
+
+
+--- Gamerules for grecos ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: false
+minecraft:respawn_radius: 2
+minecraft:raids: true
+
+
+--- Gamerules for grecos ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for grecos ---
+[Page 7 of 8]
+minecraft:spawn_patrols: false
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for grecos ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : testplat
+============================================================
+--- Gamerules for testplat ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for testplat ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for testplat ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for testplat ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for testplat ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for testplat ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for testplat ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for testplat ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : village
+============================================================
+--- Gamerules for village ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for village ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for village ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for village ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for village ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for village ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for village ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for village ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : world
+============================================================
+--- Gamerules for world ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for world ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for world ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for world ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for world ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for world ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for world ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for world ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : world_nether
+============================================================
+--- Gamerules for world_nether ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for world_nether ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for world_nether ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for world_nether ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for world_nether ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for world_nether ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for world_nether ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for world_nether ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
+
+============================================================
+MONDE : world_the_end
+============================================================
+--- Gamerules for world_the_end ---
+[Page 1 of 8]
+minecraft:spawn_wandering_traders: true
+minecraft:block_drops: true
+minecraft:reduced_debug_info: false
+minecraft:show_death_messages: true
+minecraft:spawner_blocks_work: true
+minecraft:spawn_monsters: true
+minecraft:tnt_explodes: true
+minecraft:immediate_respawn: false
+
+
+--- Gamerules for world_the_end ---
+[Page 2 of 8]
+minecraft:player_movement_check: true
+minecraft:block_explosion_drop_decay: true
+minecraft:spread_vines: true
+minecraft:max_entity_cramming: 24
+minecraft:forgive_dead_players: true
+minecraft:fall_damage: true
+minecraft:send_command_feedback: true
+minecraft:global_sound_events: true
+
+
+--- Gamerules for world_the_end ---
+[Page 3 of 8]
+minecraft:elytra_movement_check: true
+minecraft:fire_spread_radius_around_player: 128
+minecraft:freeze_damage: true
+minecraft:natural_health_regeneration: true
+minecraft:mob_explosion_drop_decay: true
+minecraft:players_nether_portal_default_delay: 80
+minecraft:mob_drops: true
+minecraft:log_admin_commands: true
+
+
+--- Gamerules for world_the_end ---
+[Page 4 of 8]
+minecraft:mob_griefing: true
+minecraft:spawn_mobs: true
+minecraft:pvp: true
+minecraft:spectators_generate_chunks: true
+minecraft:max_command_sequence_length: 65536
+minecraft:players_nether_portal_creative_delay: 0
+minecraft:players_sleeping_percentage: 100
+minecraft:advance_weather: true
+
+
+--- Gamerules for world_the_end ---
+[Page 5 of 8]
+minecraft:max_block_modifications: 32768
+minecraft:max_command_forks: 65536
+minecraft:drowning_damage: true
+minecraft:locator_bar: true
+minecraft:show_advancement_messages: true
+minecraft:command_block_output: true
+minecraft:respawn_radius: 10
+minecraft:raids: true
+
+
+--- Gamerules for world_the_end ---
+[Page 6 of 8]
+minecraft:spawn_phantoms: true
+minecraft:max_snow_accumulation_height: 1
+minecraft:limited_crafting: false
+minecraft:allow_entering_nether_using_portals: true
+minecraft:lava_source_conversion: false
+minecraft:tnt_explosion_drop_decay: false
+minecraft:universal_anger: false
+minecraft:keep_inventory: false
+
+
+--- Gamerules for world_the_end ---
+[Page 7 of 8]
+minecraft:spawn_patrols: true
+minecraft:random_tick_speed: 3
+minecraft:fire_damage: true
+minecraft:entity_drops: true
+minecraft:advance_time: true
+minecraft:command_blocks_work: true
+minecraft:spawn_wardens: true
+minecraft:projectiles_can_break_blocks: true
+
+
+--- Gamerules for world_the_end ---
+[Page 8 of 8]
+minecraft:water_source_conversion: true
+minecraft:ender_pearls_vanish_on_death: true
+
+
+
+
+
+
+
